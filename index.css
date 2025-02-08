@@ -1,0 +1,11 @@
+html {
+    font-size: 100px; /* Valor predeterminado */
+  }
+  
+  p {
+    font-size:medium; /* 2 * 16px = 32px */
+}
+
+h1{
+    color:aqua;
+}
