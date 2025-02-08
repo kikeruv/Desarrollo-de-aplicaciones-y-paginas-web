@@ -6,6 +6,6 @@ html {
     font-size:medium; /* 2 * 16px = 32px */
 }
 
-h1{
-    color:aqua;
+body{
+    background-color: blue;
 }
